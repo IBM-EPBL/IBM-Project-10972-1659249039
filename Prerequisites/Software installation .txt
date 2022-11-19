@@ -1,0 +1,87 @@
+PREREQUISITES
+INSTALLATION OF PYTHON 3.7.4
+•
+
+STEP 1: Type python in google and click on the first link.
+
+•
+
+STEP 2: Click the python 3.7.4
+
+•
+
+STEP 3: Scroll down to reach the Files and click windows x86-64 executable installer.
+
+•
+
+STEP 4: Click on the executable file.
+
+•
+
+STEP 5: Click on the Run button
+
+.
+
+•
+
+STEP 6: To change the path click on the second check box Add python 3.7 to PATH and
+then click thecustomize installation.
+
+•
+
+STEP 7: Click the Next button.
+
+.
+
+•
+
+STEP 8: You can change the path here and click on the install button.
+
+•
+
+STEP 9 : Installation process.
+
+•
+
+STEP 10 : Click Yes button.
+
+•
+
+STEP 11 : Click the close button.
+
+.
+
+•
+
+STEP 12: To check whether it is working click the windows icon ,click the All apps.
+
+•
+
+STEP 13: Click the IDLE (python 3.7 64-bit).
+
+•
+
+STEP 14: This is the IDLE window.
+
+•
+
+STEP 15: Click the Python 3.7 (64-bit).
+
+•
+
+STEP 16: This is the Python 3.7 (64-bit) command prompt.
+
+•
+
+STEP 17: To check whether the python works with windows command prompt. Right click
+the windows icon.
+
+•
+
+STEP 18: Click the command prompt.
+
+•
+
+STEP 19: Type Python in the command prompt and check whether it is working.
+
+
